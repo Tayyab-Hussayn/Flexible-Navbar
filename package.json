@@ -1,0 +1,51 @@
+{
+  "name": "flexible-navbar-react",
+  "version": "1.0.0",
+  "description": "A modern, animated navigation bar component built with React, TypeScript, and Framer Motion",
+  "main": "Navbar.tsx",
+  "keywords": [
+    "react",
+    "navbar",
+    "navigation",
+    "component",
+    "framer-motion",
+    "typescript",
+    "tailwind",
+    "animation",
+    "responsive",
+    "dark-mode",
+    "glassmorphism"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/flexible-navbar-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/flexible-navbar-react/issues"
+  },
+  "homepage": "https://github.com/yourusername/flexible-navbar-react#readme",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "dependencies": {
+    "framer-motion": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.9.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "files": [
+    "Navbar.tsx",
+    "README.md",
+    "package.json"
+  ]
+}
+
